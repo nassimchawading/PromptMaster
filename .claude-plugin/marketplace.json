@@ -1,0 +1,16 @@
+{
+  "name": "prompt-master",
+  "owner": {
+    "name": "nassimchawading"
+  },
+  "metadata": {
+    "description": "Prompt Master: a Claude Code mod that structures your prompts before Claude sees them."
+  },
+  "plugins": [
+    {
+      "name": "prompt-master",
+      "source": "./",
+      "description": "Turns rough prompts into structured ones (Goal, Context, Constraints, Output format) before Claude sees them."
+    }
+  ]
+}

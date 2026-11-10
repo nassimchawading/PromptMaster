@@ -1,0 +1,9 @@
+{
+  "name": "prompt-master",
+  "version": "0.1.0",
+  "description": "Turns rough prompts into structured ones (Goal, Context, Constraints, Output format) before Claude sees them.",
+  "author": { "name": "nassimchawading" },
+  "license": "MIT",
+  "homepage": "https://github.com/nassimchawading/PromptMaster",
+  "types": "./types/index.d.ts"
+}
